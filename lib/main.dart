@@ -29,11 +29,11 @@ class MyHomePage extends StatelessWidget {
           image: AssetImage('assets/images/i-am-illidank.png'),
         ),
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () {},
-        tooltip: 'Dank',
-        child: Icon(Icons.fireplace),
-      ),
+      // floatingActionButton: FloatingActionButton(
+      //   onPressed: () {},
+      //   tooltip: 'Dank',
+      //   child: Icon(Icons.fireplace),
+      // ),
     );
   }
 }
